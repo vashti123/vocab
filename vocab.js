@@ -1,6 +1,7 @@
+//Git changes
+
 /*
 To start a new project:
-
 In terminal:
 cd OneDrive/Programming
 mkdir *newProjectName*
